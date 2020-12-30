@@ -18,7 +18,7 @@ export default class MainContainer extends Component {
         <div className='heading'>
           <Nav className='justify-content-center'>
             <div className='cactus'>
-              <Nav.Link as={Link} to='/'>
+              <Nav.Link as={Link} to='/portfolio/'>
                 <img className='cactus' src={Cactus} alt='cactus.png' height={18} />
               </Nav.Link>
             </div>
