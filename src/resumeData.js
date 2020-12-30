@@ -8,8 +8,6 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 let resumeData = {
-  imagebaseurl:
-    "https://avatars1.githubusercontent.com/u/41132341?s=460&amp;u=0613ee95873e9f62e4cff02c312562767634a69a&amp;v=4",
   name: "Damia Smith",
   role: "Full Stack Developer",
   roleDescription:
@@ -40,7 +38,7 @@ let resumeData = {
     "I am currently working as a full-stack developer on the Public Cloud Services team at Centene. I enjoy developing innovative applications for documentation and proof of concept, as well as automating manual ops processes. In my spare time, I am advancing my react skills, learning java, and building personal projects. I also enjoy yoga, biking, hiking, creating art and spending time with my pets.",
   email: "damia.v.smith@gmail.com",
   address: "St. Louis, MO",
-  website: "https://damiasmith.github.io",
+  website: "https://damiasmith.github.io/portfolio/",
   resume: {
     url: "https://s3.amazonaws.com/damia.smith.resume/resume/Resume2020.pdf",
   },
